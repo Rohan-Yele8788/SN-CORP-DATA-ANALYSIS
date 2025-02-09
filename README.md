@@ -9,11 +9,11 @@ SN Corp faces challenges in effectively monitoring and analyzing key business me
 # Description of Data
 The SN Corp Dashboard will integrate and analyze data from multiple departments, including sales, finance, HR, and operations. The dataset will consist of structured information covering various business metrics. Below is an overview of the key data components:
 1. Sales Data
-•	Order ID – Unique identifier for each sale
-•	Date of Sale – Timestamp of transaction
+* Order ID – Unique identifier for each sale
+* Date of Sale – Timestamp of transaction
 2. Financial Data
-•	Expense Categories – Breakdown of operational costs
-•	Revenue Streams – Income from various business operations
+* Expense Categories – Breakdown of operational costs
+*	Revenue Streams – Income from various business operations
 
 # Key Objectives
 The primary goal of the SN Corp Dashboard is to enhance data-driven decision-making by integrating and visualizing key business metrics. Below are the core objectives
