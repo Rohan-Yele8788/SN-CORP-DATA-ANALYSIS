@@ -56,7 +56,7 @@ Sales in 2020 show higher values compared to 2017, especially during the last qu
 The sale by ship mode preferred by the as continues as profit Economy, Economy Plus, Immediate ,Priority
 
 ### 4.	Quantity Sold by Region 
-The Central region contributes the highest sales at 55.11%, followed by North (22.72%). The  South regions show lower sales as Compared the Central & North percentages, suggesting these regions could benefit from focused marketing or expansion strategies.
+The Central region contributes the highest sales at (55.11%), followed by North (22.72%). The  South regions show lower sales as Compared the Central & North percentages, suggesting these regions could benefit from focused marketing or expansion strategies.
 
 ### 5.	KPI’S by Sub-Categories
 Bookcases  is the top-performing category with $273.7K in sales, followed by Chairs ($171.3K) and Appliances ($157.4K). This indicates that Bookcases  is driving the bulk of sales, but there’s growth potential in Chairs and Appliances  categories.
