@@ -76,10 +76,10 @@ Bookcases  is the top-performing category with $273.7K in sales, followed by Cha
 # Conclusion
 
 The SN Corp Dashboard Project successfully integrates real-time data analytics, automation, and interactive visualizations to drive data-driven decision-making. By consolidating data from multiple business functions—including Sales, Finance, HR, Operations, and Customer Insights—the dashboard provides a comprehensive view of business performance.
-### Key Achievements:
+### Key Achievements :
 1.	Enhanced Decision-Making: Leadership can now make informed choices based on real-time insights and predictive analytics.
 2.	Operational Efficiency: Automated reporting and KPI tracking reduce manual effort and improve response times.
-### Business Impact:
+### Business Impact :
 1.	Increased Revenue & Profitability through optimized sales and cost management
 2.	 Improved Efficiency by automating reporting and reducing data silos.
 3.	Better Customer Engagement with insights into preferences, feedback, and churn prediction.
